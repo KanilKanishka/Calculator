@@ -1,0 +1,30 @@
+C:\Users\HARSHA\source\repos\Avg1\Avg1\bin\Debug\Avg1.exe.config
+C:\Users\HARSHA\source\repos\Avg1\Avg1\bin\Debug\Avg1.exe
+C:\Users\HARSHA\source\repos\Avg1\Avg1\bin\Debug\Avg1.pdb
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.csprojAssemblyReference.cache
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.average.resources
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.Properties.Resources.resources
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.csproj.GenerateResource.cache
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.csproj.CoreCompileInputs.cache
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.exe
+C:\Users\HARSHA\source\repos\Avg1\Avg1\obj\Debug\Avg1.pdb
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\bin\Debug\Avg1.exe.config
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\bin\Debug\Avg1.exe
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\bin\Debug\Avg1.pdb
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.csprojAssemblyReference.cache
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.average.resources
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.Properties.Resources.resources
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.csproj.GenerateResource.cache
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.csproj.CoreCompileInputs.cache
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.exe
+E:\cv H\Harsha(CODL)\Visual Studio\Activity\activit2\Avg1\Avg1\obj\Debug\Avg1.pdb
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\bin\Debug\Avg1.exe.config
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\bin\Debug\Avg1.exe
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\bin\Debug\Avg1.pdb
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.csprojAssemblyReference.cache
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.average.resources
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.Properties.Resources.resources
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.csproj.GenerateResource.cache
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.csproj.CoreCompileInputs.cache
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.exe
+C:\Users\Kanil Kanishka\Desktop\Avg1\Avg1\obj\Debug\Avg1.pdb
